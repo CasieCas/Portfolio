@@ -16,3 +16,4 @@ O projeto foi elaborado para praticar os conhecimentos de HTML e CSS incluindo r
 
 ## Abrir e rodar o projeto
 
+https://portfolio-wine-psi-72.vercel.app/index.html
